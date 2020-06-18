@@ -1,0 +1,124 @@
+
+table
+    {
+            border-collapse: collapse;
+    }
+    
+    table, th, td 
+    {
+    color:#3b7687;
+    border: 1px solid #3b7687;
+    font-style: "Myriad Pro";
+    font-size:large;
+    text-align:center;
+    }
+
+#page {
+	margin-left:auto;
+  margin-right:auto;
+  width:960px;
+}
+#container { 
+	
+	background: #FFFFFF;
+    width:1210px; 
+    margin:0 auto;
+    height: 800px;
+    position:relative;
+    top: 0px;
+    left: 0px;
+}	
+
+#header {
+    background-color:#486989;
+    color:white;
+    text-align:center;
+    padding:5px;
+}
+#nav {
+    
+
+	background-color: #486989; 
+	padding: 6px 0 6px 40px;
+    height: 800px;
+    width: 125px;
+	float:left;
+    margin-right: 2px;		
+		
+}
+#nav a {
+color: #c5d6db;
+text-decoration: none; 
+font-size: 14px; 
+font-family: "Arial Narrow", "Myriad Pro";
+}
+
+#nav a:hover {
+color: #ecf2f3;
+font-size:large;
+}
+
+#nav1 {
+    background-color: #486989; 
+	padding: 6px 0 6px 40px;
+    height: 800px;
+    width: 125px;
+	float:right;
+          
+}
+
+#nav1 a {
+color: #c5d6db;
+text-decoration: none; 
+font-size: 14px; 
+font-family: "Arial Narrow", "Myriad Pro";
+}
+
+#nav1 a:hover {
+color: #ecf2f3;
+font-size:large;
+}
+
+#section {
+		
+    width:700px;
+    height: 570px;
+    float:left;
+    padding:10px;	 	 
+}
+
+h2 {
+color: #3b7687;
+font-size: 20px; 
+}
+
+
+
+
+
+#choicesbk 
+{
+  position: relative;
+  width: 862px;
+  height: 570px;
+  top: 10%;
+  left: -5px;
+  margin: 0px 0 0 0px;
+  border-color: lightblue;
+  border-style: solid;
+  border-width: 2px;
+}
+
+.labelhstyle {
+color: #3b7687;
+font-size: small; 
+border-top-right-radius: 1em;
+border-top-left-radius: 1em;
+}
+
+.selected {
+    color: #3b7687;
+    font-size: large; 
+    border-top-right-radius: 1em;
+    border-top-left-radius: 1em;
+}
